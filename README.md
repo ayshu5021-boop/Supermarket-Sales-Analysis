@@ -19,7 +19,8 @@ The analysis was performed using Excel, PivotTables, statistical functions, and 
 
 ## Project Files
 
-- Portfolio Report
+[- Portfolio Report
+](https://github.com/ayshu5021-boop/Supermarket-Sales-Analysis/blob/main/SUPERMARKET%20SALES%20ANALYSIS%20PROJECT%202%20REPORT.docx.pdf)
 - Dashboard
 
 ## Author
